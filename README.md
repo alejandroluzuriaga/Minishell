@@ -30,8 +30,8 @@ Minishell will let you know when is executing as it shows the next line:
 msh:~<directories/actual_directory>$
 ```
 
-[!TIP]
-The code comments are in Spanish
+> [!TIP]
+> The code comments are in Spanish
 ## How does the code work?
 #### Initialization
 - Global variable declaration includes a structure for background processes with fields like process ID, job number, and command string.
