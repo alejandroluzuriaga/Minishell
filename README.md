@@ -30,9 +30,9 @@ Minishell will let you know when is executing as it shows the next line:
 msh:~<directories/actual_directory>$
 ```
 
+## How does the code work?
 > [!NOTE]
 > The code comments are in Spanish
-## How does the code work?
 #### Initialization
 - Global variable declaration includes a structure for background processes with fields like process ID, job number, and command string.
 - 'MAX_BACKGROUND_JOBS' limits simultaneous background processes.
