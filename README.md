@@ -1,8 +1,8 @@
 # Minishell
 ## _Implemented in C_
 *Created by myself and @DarkS34 for our 'Operating Systems' course at University using Ubuntu 22.04*
-[!NOTE]
-This minishell is not natively executable in Windows. Is a simple UNIX command line shell implemented in C runnable in Linux systems.
+> [!NOTE]  
+> This minishell is not natively executable in Windows. Is a simple UNIX command line shell implemented in C runnable in Linux systems.
 
 This shell supports basic command execution, input/output redirection, piping, execution of multiple commands in a single line, background process handling, signal handling (including Ctrl+C interrupt), and job monitoring. It provides a foundational understanding of process management on UNIX-like systems.
 | Command |  |
