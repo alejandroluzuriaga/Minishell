@@ -30,7 +30,7 @@ Minishell will let you know when is executing as it shows the next line:
 msh:~<directories/actual_directory>$
 ```
 
-> [!TIP]
+> [!NOTE]
 > The code comments are in Spanish
 ## How does the code work?
 #### Initialization
