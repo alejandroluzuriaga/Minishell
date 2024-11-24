@@ -17,7 +17,7 @@ This shell supports basic command execution, input/output redirection, piping, e
 To execute the minishell, clone this repository in your UNIX-based system () and execute:
 
 ```sh
-gcc -Wall -Wextra myshell.c libparser.a -o test
+gcc -Wall -Wextra -no-pie myshell.c libparser.a -o test
 ```
 
 This will generate an executable file named 'test' that you have to run in your Linux terminal as:
